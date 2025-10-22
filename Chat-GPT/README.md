@@ -1,12 +1,29 @@
-# React + Vite
+# 💬 GeminiReactChat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, one-page ChatGPT-style interface built using **React** and **Vite**. This project is purely frontend — no backend, no API — designed for UI prototyping and learning React basics.
 
-Currently, two official plugins are available:
+## 📁 Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**GitHub:** [Pallavi2005tcm/CHAT_GPT](https://github.com/Pallavi2005tcm/CHAT_GPT)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React + Vite setup for fast development
+- 🎨 Clean and responsive HTML/CSS layout
+- 🧼 No external APIs or backend logic
+- 📄 Static one-page interface
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- HTML5
+- CSS3
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Pallavi2005tcm/CHAT_GPT.git
+cd CHAT_GPT
+npm install
+npm run dev
